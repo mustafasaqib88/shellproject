@@ -10,3 +10,4 @@ Steps to run this project.
 7. This project has been developed using JAVA Spring Boot.
 8. JAVA 11 is required to run the project and the remaining requirements are specified in the pom.xml file
 9. Run the project from the command line using the command  mvn spring-boot:run
+10. Once the project is running it will be available on http://localhost:8081/
